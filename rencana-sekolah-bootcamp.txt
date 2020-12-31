@@ -3,6 +3,9 @@ Rencana Sekolah Bootcamp ISA
 - Pengembalian dana sekolah
 * Lulus tahapan administrasi
 * Sanggup menyelesaikan tugas dan portofolio
+  - Full stack web
 * Mampu membuat produk digital
+  - Aplikasi berbasis android
 - Lokasi bootcamp Jabodetabek
 - Target lulus 3-4 Bulan
+- Bekerja di perusahaan startup
