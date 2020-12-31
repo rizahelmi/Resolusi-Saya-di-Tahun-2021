@@ -1,7 +1,7 @@
 Rencana Sekolah Bootcamp ISA
 
 - Pengembalian dana sekolah
-* Lulus tahapa administrasi
+* Lulus tahapan administrasi
 * Sanggup menyelesaikan tugas dan portofolio
 - Lokasi bootcamp Jabodetabek
 - Target lulus 3-4 Bulan
